@@ -10,6 +10,10 @@ Initialized by [vivaxy/gt-npm-package](https://github.com/vivaxy/gt-npm-package)
 
 This component provides you a simple way to load a remote image and automatically set `Image` height to the image dimension which fits the provided width.
 
+## TODO
+1. batch processing 
+2. pre fetch
+3. memory optimizations deleting cache 
 ReactNative `Image` component needs users to set both `width` and `height` props.
 
 ## Installation
