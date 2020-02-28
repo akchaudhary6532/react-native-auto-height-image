@@ -15,6 +15,8 @@ This component provides you a simple way to load a remote image and automaticall
 2. pre fetch
 3. memory optimizations deleting cache 
 ReactNative `Image` component needs users to set both `width` and `height` props.
+4. adding auto & manual retry for when Images failed to download
+5. sequential fetching of Images
 
 ## Installation
 
